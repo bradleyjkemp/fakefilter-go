@@ -26,4 +26,11 @@ jobs:
         with:
           commit_message: Scheduled update
           commit_author: Actions <actions@github.com>
+          
+      - name: Bump version and push tag
+        uses: anothrNick/github-tag-action@1.36.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WITH_V: true
+          DEFAULT_BUMP: patch
 
