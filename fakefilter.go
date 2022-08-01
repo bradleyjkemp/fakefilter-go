@@ -2518,6 +2518,7 @@ var domains = map[string]struct{}{
     "xonomax.com": {},
     "xprozacno.com": {},
     "xrap.de": {},
+    "xriveroq.com": {},
     "xufcopied.com": {},
     "xuge.life": {},
     "xvector.org": {},
