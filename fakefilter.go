@@ -2142,6 +2142,7 @@ var domains = map[string]struct{}{
     "mc-templates.de": {},
     "mcoveraged.com": {},
     "mczcpgwbsg.ga": {},
+    "mdamageqdz.com": {},
     "mdz.email": {},
     "meantinc.com": {},
     "meckakorp.site": {},
