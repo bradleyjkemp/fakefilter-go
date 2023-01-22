@@ -399,6 +399,7 @@ var domains = map[string]struct{}{
     "bestideas.tech": {},
     "bestiengine.com": {},
     "bestparadize.com": {},
+    "bestspeakingcourses.com": {},
     "besttempmail.com": {},
     "besttimenews.xyz": {},
     "betmelli20.com": {},
@@ -755,6 +756,7 @@ var domains = map[string]struct{}{
     "cryptohistoryprice.com": {},
     "csccsports.com": {},
     "csderf.xyz": {},
+    "csdfth.store": {},
     "csht.team": {},
     "ctechdidik.me": {},
     "ctopicsbh.com": {},
@@ -2108,6 +2110,7 @@ var domains = map[string]struct{}{
     "llaurenu.com": {},
     "llessonza.com": {},
     "lmaritimen.com": {},
+    "lmav59c1.xyz": {},
     "lmav5ba4.xyz": {},
     "localnews2021.xyz": {},
     "localtank.com": {},
@@ -3580,6 +3583,7 @@ var domains = map[string]struct{}{
     "tektok.me": {},
     "teleg.eu": {},
     "teleworm.us": {},
+    "telkomsel.ml": {},
     "tellsow.fun": {},
     "tellsow.live": {},
     "tellsow.online": {},
@@ -4094,6 +4098,7 @@ var domains = map[string]struct{}{
     "xuge.life": {},
     "xvector.org": {},
     "xvlinjury.com": {},
+    "xwgiant.com": {},
     "xwiekhduzw.ga": {},
     "xwkqguild.com": {},
     "xww.ro": {},
@@ -4215,6 +4220,7 @@ var domains = map[string]struct{}{
     "zurosbanda.com": {},
     "zzcash.ml": {},
     "陸茜恭.tk": {},
+    "뜃.cf": {},
 }
 
 func IsFakeDomain(domain string) bool {
